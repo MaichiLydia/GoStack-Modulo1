@@ -59,4 +59,9 @@ E em seguida adicionamos no `package.json` um comando no script para utilizarmos
 | Delete | Utilizar o método **DELETE** passando um parametro para apagar um usuário especifico.|
 
 
+#### Middlewares
 
+Middleware é uma função que recebe parametros, entre eles os mais utilizados são `req` e `res`, intercepta e manipula esses dados.
+Tudo que for formas de manipular a requisição e retornar ou não uma resposta.
+
+Nessa parte foram feitos os middlewares: `checkUserInArray`, `checkUserExists`
