@@ -37,3 +37,13 @@ Resultado ao acessar `http://localhost:3000/users/1`:
 }
 ```
 - Request body = `{ "name": "Lydia", "email": "mlydiarodrigues@gmail.com" }`
+
+#### Nodemon
+Para evitar que a gente tenha que ficar reiniciando com `node index.js` toda vez que atualizarmos alguma parte do código, instalamos uma dependencia em modo de desenvolvimento(não precisaremos disso no nosso código de produção) que já faz esse trabalho.
+`yarn add nodemon`
+E em seguida adicionamos no `package.json` um comando no script para utilizarmos esse modo de iniciar nossa aplicação:
+```
+  "scripts": {
+    "dev": "nodemon index.js"
+  }
+```
