@@ -65,3 +65,13 @@ Middleware é uma função que recebe parametros, entre eles os mais utilizados 
 Tudo que for formas de manipular a requisição e retornar ou não uma resposta.
 
 Nessa parte foram feitos os middlewares: `checkUserInArray`, `checkUserExists`
+
+
+#### Debugger
+
+Temos a opção de debugar utilizando o VSCode, basta clicar no lado esquerdo e salvar o launch.json, depois disso é possível colcoar breakpoints, criar e observar variáveis.
+
+
+#### Extras
+
+[Insomnia colletion](./README_FILES/insomnia-collection.json)
