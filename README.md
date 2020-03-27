@@ -3,6 +3,22 @@
 
 ### Aula 1
 
+#### Requisitos
+
+- [Vscode](https://code.visualstudio.com/Download)
+- [node download](https://nodejs.org/en/download/) e [node documentação](https://nodejs.org/en/docs/)
+- [yarn](https://yarnpkg.com/)
+- [HTTP Métodos](https://www.w3schools.com/tags/ref_httpmethods.asp)
+- [API REST](https://becode.com.br/o-que-e-api-rest-e-restful/)
+- [express getting started](https://expressjs.com/en/starter/installing.html) e [express reference](https://expressjs.com/en/4x/api.html)
+
+#### Sumário
+- [Recursos/rotas, parametros de rota e de query](#recursos/rotas,-parametros-de-rota-e-de-query)
+- [Nodemon](#nodemon)
+- [CRUD](#crud)
+- [Middlewares](#middlewares)
+- [Debugger](#debugger)
+- [Extras](#extras)
 
 #### Recursos/rotas, parametros de rota e de query
 
@@ -75,3 +91,4 @@ Temos a opção de debugar utilizando o VSCode, basta clicar no lado esquerdo e 
 #### Extras
 
 [Insomnia colletion](./README_FILES/insomnia-collection.json)
+
