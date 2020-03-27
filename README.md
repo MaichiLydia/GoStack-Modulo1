@@ -13,12 +13,19 @@
 - [express getting started](https://expressjs.com/en/starter/installing.html) e [express reference](https://expressjs.com/en/4x/api.html)
 
 #### Sumário
+- [Inicialização]
 - [Recursos/rotas, parametros de rota e de query](#recursos/rotas,-parametros-de-rota-e-de-query)
 - [Nodemon](#nodemon)
 - [CRUD](#crud)
 - [Middlewares](#middlewares)
 - [Debugger](#debugger)
 - [Extras](#extras)
+
+#### Inicialização
+```
+yarn init
+yarn dev
+```
 
 #### Recursos/rotas, parametros de rota e de query
 
